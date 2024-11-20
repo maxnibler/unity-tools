@@ -1,0 +1,13 @@
+{
+    "name": "com.maxnibler.unity-tools",
+    "version": "1.0.0",
+    "displayName": "Nibler's Tools",
+    "description": "A reusable set of all my basic utilities",
+    "unity": "2022.3",
+    "unityRelease": "21f1",
+    "author": {
+        "name": "Max Nibler",
+        "email": "maxnibler.dev@gmail.com",
+        "url": "https://github.com/maxnibler"
+    }
+}
