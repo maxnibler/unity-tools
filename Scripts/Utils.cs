@@ -1,5 +1,7 @@
 namespace mnibler
-public static class Utils
 {
-    
+    public static class Utils
+    {
+
+    }
 }
